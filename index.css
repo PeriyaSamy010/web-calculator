@@ -1,0 +1,32 @@
+button{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+table {
+  border: 3px solid;
+ 
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 160px;
+    background-image: url(thumb-1920-455565.png);
+}
+button:hover{
+    color: rgb(3, 141, 169);
+    background-image: linear-gradient(to right, rgb(169, 201, 94) , rgb(212, 23, 35));
+}
+#box{
+    margin-left: 10px;
+    width: 100%;
+    padding: 5px;
+}
+input{
+    padding: 40px;
+    padding-right: 180px;
+    border-radius: 20px;
+    margin-left: -25px;
+}
